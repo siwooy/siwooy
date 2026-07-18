@@ -12,11 +12,4 @@
   <img src="https://raw.githubusercontent.com/siwooy/siwooy/output/contribution-graph.svg" alt="animated contribution graph" width="100%">
 </picture>
 
-<br>
-<br>
-
-`Python` · `PyTorch` · `C++` · `Git`
-
-<br>
-
 </div>
